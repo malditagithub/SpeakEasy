@@ -7,3 +7,6 @@ Features: Text-to-Speech; Image Recognition (uploaded from device's camera); Lan
 
 App can be accessed via this weblink: https://thunkable.site/w/hZfn_gX1miVXd1i58ORpN
 App can be downloaded to an android device via APK also found in the repo
+
+Raw file resides in google drive: https://drive.google.com/drive/folders/1tMROouJzA2qZrBMoanpPndTZag27NQYS?usp=sharin
+Images reside in Cloudinary
